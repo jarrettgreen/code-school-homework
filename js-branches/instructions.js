@@ -8,6 +8,6 @@
     "<p> <ol>" +
     "<li> Hide the sections when the page loads </li>" +
     "<li> Create a prompt that opens when the page loads, asking the user what kind of animal they would like to read about. </li>" +
-    "<li> Write a conditional branch that will evaluate the text they provided, and if it mathces 'Lions', 'Tigers', or 'Bears', show the appropriate section </li> " +
+    "<li> Write a conditional branch that will evaluate the text they provided, and if it matches 'Lions', 'Tigers', or 'Bears', show the appropriate section </li> " +
     "<li> If you don't have a match (they type 'fox') alert the user saying so, and start the process over." +
     "</ol></p>"
