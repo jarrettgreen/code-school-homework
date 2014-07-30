@@ -14,4 +14,9 @@
   padding:10px;
   border-radius: 0px 0px 5px 5px;
   color: #fff;
+  cursor: pointer;
+}
+
+#instructions-toggle:hover {
+  padding-top: 15px;
 }
