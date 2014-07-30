@@ -1,0 +1,17 @@
+@import "http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css";
+
+#instructions {
+  padding:2em 5em;
+  background-color: #B2D4DC;
+  color: #2A3A48;
+}
+#instructions-toggle {
+  position:absolute;
+  left: 10px;
+  background-color: #FF6900;
+
+  box-shadow: 0px 2px 2px #CC5400 inset;
+  padding:10px;
+  border-radius: 0px 0px 5px 5px;
+  color: #fff;
+}
